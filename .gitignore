@@ -1,0 +1,10 @@
+db.sqlite3
+geckodriver.log
+virtualenv
+bin/
+pyvenv.cfg
+lib/
+lib64
+share/
+__pycache__
+*.pyc
